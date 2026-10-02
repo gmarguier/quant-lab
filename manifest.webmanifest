@@ -1,0 +1,32 @@
+{
+  "name": "Quant Lab",
+  "short_name": "Quant Lab",
+  "lang": "fr",
+  "description": "Cours et questions d'entretien quant : réponses vérifiées, chrono, suivi de progression.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#22395c",
+  "theme_color": "#22395c",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
